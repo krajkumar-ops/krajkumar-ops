@@ -81,16 +81,6 @@ Seeking an Operations Executive, Data Analyst or Business Analyst role to turn d
 
 Immediate joiner | Open to relocation anywhere in India | Languages: English, Hindi, Odia, Telugu
 
-## Learning Progress
-
-```text
-Advanced Excel    ████████████████░░░░  80%
-SQL (Advanced)    ████████████████░░░░  80%
-Power Query       ████████████████░░░░  80%
-Power BI (DAX)    ██████░░░░░░░░░░░░░░  30%
-Python (Pandas)   ████░░░░░░░░░░░░░░░░  20%
-```
-
 *Currently focusing on: Power BI (DAX) and Python for data analysis.*
 
 ## Career Interests
