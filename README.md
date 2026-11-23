@@ -38,7 +38,7 @@ Seeking an Operations Executive, Data Analyst or Business Analyst role to turn d
 - Cleaned and validated a **500-record sales dataset**; used formulas to calculate gross sales, discounts, net sales, cost and profit.
 - Built Pivot Tables, Pivot Charts and Slicers with KPI cards (GETPIVOTDATA) for sales, profit, units and orders, giving a single-view performance dashboard.
 
-🔗 [[View Project](https://github.com/krajkumar-ops/bizmetrics-business-performance-analysis)
+🔗 [View Project](https://github.com/krajkumar-ops/bizmetrics-business-performance-analysis)
 
 *More projects in progress: SQL business case studies and Power BI dashboards.*
 
