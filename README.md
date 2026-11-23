@@ -30,7 +30,7 @@ Seeking an Operations Executive, Data Analyst or Business Analyst role to turn d
 - Analysed store, department, seasonal, holiday, markdown and economic trends using Excel formulas and PivotTables.
 - Built an interactive dashboard with **6 KPI cards, 5 charts, 3 slicers and a Timeline** to explore retail sales performance.
 
-🔗 [View project](https://github.com/krajkumar-ops/WALMART-REPO-NAME)
+
 
 ### BizMetrics – Business Performance and Sales Analysis | 2026
 **Tools:** Microsoft Excel
